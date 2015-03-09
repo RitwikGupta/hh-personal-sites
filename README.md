@@ -703,7 +703,7 @@ Hackathon Hackers' GitHub profiles
 - Rishi Dua https://github.com/rishirdua
 - Ritvik Choudhary https://github.com/Ritvik1512
 - Ritvik Upadhyaya https://github.com/ritvikupadhyaya
-- Ritwik Gupta https://github.com/RitwikGupta
+- Ritwik Gupta http://ritwikgupta.me
 - Robert Kim https://github.com/rkty13
 - Robert O'Connor https://github.com/robbyoconnor
 - Robert Rouhani https://github.com/Robmaister
