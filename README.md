@@ -189,6 +189,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Rikin Katyal http://rikinkatyal.me
 - Rishi Dhanaraj http://rishi.io
 - Rishi Dua http://www.rishidua.com
+- Ritwik Gupta http://ritwikgupta.me
 - Robert O'Connor http://robbyoconnor.us/
 - Robin van Wijngaarden http://www.robinvanwijngaarden.com/
 - Rodrigo Argumedo http://rodrigoargumedo.github.io
